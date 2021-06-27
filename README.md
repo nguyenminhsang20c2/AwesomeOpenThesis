@@ -1,6 +1,12 @@
 # AwesomeOpenThesis
-𝐈𝐃𝐄𝐀𝐒
 
+𝗗𝗔𝗥𝗧-𝗘𝘂𝗿𝗼𝗽𝗲 𝗘-𝘁𝗵𝗲𝘀𝗲𝘀 𝗣𝗼𝗿𝘁𝗮𝗹
+DART cho phép bạn đọc truy cập toàn văn khoảng 828,728 tài liệu nghiên cứu của 619  trường đại học tại 28 nước ở Châu Âu.
+DART được xây dựng với mục đích tạo ra một nơi đến duy nhất nhằm giúp bạn đọc có thể tiếp cận các tài liệu nghiên cứu (luận văn thạc sỹ hay luận án tiến sỹ) do các sinh viên đã từng học tập tại các trường đại học ở Châu Âu thực hiện. Ngoài ra, sự ra đời của cổng thông tin DART cũng nhằm mở rộng quy mô phổ biến thông tin nghiên cứu. Do đó, chính sách phục vụ của cổng thông tin là cho phép bạn đọc truy cập toàn văn tất cả tài liệu được lưu trữ.
+https://www.dart-europe.org/basic-search.php
+
+
+𝐈𝐃𝐄𝐀𝐒
 𝐈𝐃𝐄𝐀𝐒 là cơ sở dữ liệu thư mục lớn nhất dành riêng cho khối ngành Kinh tế được cung cấp miễn phí trên Internet. 𝐈𝐃𝐄𝐀𝐒 là thành viên của Dự án số hóa Các Công trình Nghiên cứu Kinh tế (𝐑𝐞𝐏𝐄𝐜).
 Hiện tại, 𝐈𝐃𝐄𝐀𝐒 xây dựng được cơ sở dữ liệu hơn 3.4 triệu nghiên cứu trong đó có tới hơn 3.1 triệu nghiên cứu được cung cấp toàn văn và miễn phí.
 https://ideas.repec.org/
