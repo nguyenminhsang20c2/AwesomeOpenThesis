@@ -6,7 +6,6 @@ DART được xây dựng với mục đích tạo ra một nơi đến duy nh�
 https://www.dart-europe.org/basic-search.php
 
 
-𝐈𝐃𝐄𝐀𝐒
 𝐈𝐃𝐄𝐀𝐒 là cơ sở dữ liệu thư mục lớn nhất dành riêng cho khối ngành Kinh tế được cung cấp miễn phí trên Internet. 𝐈𝐃𝐄𝐀𝐒 là thành viên của Dự án số hóa Các Công trình Nghiên cứu Kinh tế (𝐑𝐞𝐏𝐄𝐜).
 Hiện tại, 𝐈𝐃𝐄𝐀𝐒 xây dựng được cơ sở dữ liệu hơn 3.4 triệu nghiên cứu trong đó có tới hơn 3.1 triệu nghiên cứu được cung cấp toàn văn và miễn phí.
 https://ideas.repec.org/
