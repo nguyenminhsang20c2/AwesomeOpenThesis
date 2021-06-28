@@ -1,5 +1,10 @@
 # AwesomeOpenThesis
 
+𝐒𝐰𝐞𝐝𝐢𝐬𝐡 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐃𝐢𝐬𝐬𝐞𝐫𝐭𝐚𝐭𝐢𝐨𝐧𝐬
+Kính gửi Quý Anh/ Chị cổng thông tin luận án tiến sỹ của các cơ sở nghiên cứu tại 𝐒𝐰𝐞𝐝𝐞𝐧!
+https://www.dissertations.se/
+
+
 𝗗𝗔𝗥𝗧-𝗘𝘂𝗿𝗼𝗽𝗲 𝗘-𝘁𝗵𝗲𝘀𝗲𝘀 𝗣𝗼𝗿𝘁𝗮𝗹
 DART cho phép bạn đọc truy cập toàn văn khoảng 828,728 tài liệu nghiên cứu của 619  trường đại học tại 28 nước ở Châu Âu.
 DART được xây dựng với mục đích tạo ra một nơi đến duy nhất nhằm giúp bạn đọc có thể tiếp cận các tài liệu nghiên cứu (luận văn thạc sỹ hay luận án tiến sỹ) do các sinh viên đã từng học tập tại các trường đại học ở Châu Âu thực hiện. Ngoài ra, sự ra đời của cổng thông tin DART cũng nhằm mở rộng quy mô phổ biến thông tin nghiên cứu. Do đó, chính sách phục vụ của cổng thông tin là cho phép bạn đọc truy cập toàn văn tất cả tài liệu được lưu trữ.
