@@ -1,4 +1,9 @@
 # AwesomeOpenThesis
+𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 𝐄𝐓𝐃 𝐂𝐞𝐧𝐭𝐞𝐫
+𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 là cơ sở dữ liệu về luận văn và luận án mở đến từ các trường thành viên của 𝐎𝐡𝐢𝐨 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐨𝐟 𝐇𝐢𝐠𝐡𝐞𝐫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧.
+Hiện tại 𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 đang cung cấp toàn văn và thông tin trích dẫn và của 106,900 luận văn và luận án tiến sỹ miễn phí đầy đủ các lĩnh vực!
+https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/1
+
 
 𝐒𝐰𝐞𝐝𝐢𝐬𝐡 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐃𝐢𝐬𝐬𝐞𝐫𝐭𝐚𝐭𝐢𝐨𝐧𝐬
 Kính gửi Quý Anh/ Chị cổng thông tin luận án tiến sỹ của các cơ sở nghiên cứu tại 𝐒𝐰𝐞𝐝𝐞𝐧!
