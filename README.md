@@ -1,4 +1,10 @@
 # AwesomeOpenThesis
+
+[𝐃𝐀𝐑𝐓-𝐄𝐮𝐫𝐨𝐩𝐞 𝐄-𝐭𝐡𝐞𝐬𝐞𝐬 𝐏𝐨𝐫𝐭𝐚𝐥]
+Hiện nay, DART cho phép bạn đọc truy cập toàn văn khoảng 1,082,477 luận văn thạc sỹ/ luận án tiến sỹ của 570 trường đại học tại 29 nước ở Châu Âu.
+DART được xây dựng với mục đích tạo ra một cơ sở dữ liệu điện tử nhằm giúp bạn đọc có thể tiếp cận các tài liệu nghiên cứu (luận văn thạc sỹ hay luận án tiến sỹ) do các sinh viên/ học viên và nghiên cứu sinh đã từng học tập tại các trường đại học ở Châu Âu thực hiện. 
+https://www.dart-europe.org/basic-search.php
+
 𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 𝐄𝐓𝐃 𝐂𝐞𝐧𝐭𝐞𝐫
 𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 là cơ sở dữ liệu về luận văn và luận án mở đến từ các trường thành viên của 𝐎𝐡𝐢𝐨 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐨𝐟 𝐇𝐢𝐠𝐡𝐞𝐫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧.
 Hiện tại 𝐎𝐡𝐢𝐨𝐋𝐈𝐍𝐊 đang cung cấp toàn văn và thông tin trích dẫn và của 106,900 luận văn và luận án tiến sỹ miễn phí đầy đủ các lĩnh vực!
