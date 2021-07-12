@@ -1,5 +1,10 @@
 # AwesomeOpenThesis
 
+[ 𝐃𝐎𝐀𝐉_𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐨𝐟 𝐎𝐩𝐞𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐚𝐥𝐬]
+𝐃𝐎𝐀𝐉 là cơ sở dữ liệu bao gồm 16,575 Tạp chí khoa học và 6,299,057 bài báo khoa học mở - Miễn phí truy cập đến từ 126 quốc gia/ vùng lãnh thổ.
+https://www.doaj.org/
+
+
 [𝐃𝐀𝐑𝐓-𝐄𝐮𝐫𝐨𝐩𝐞 𝐄-𝐭𝐡𝐞𝐬𝐞𝐬 𝐏𝐨𝐫𝐭𝐚𝐥]
 Hiện nay, DART cho phép bạn đọc truy cập toàn văn khoảng 1,082,477 luận văn thạc sỹ/ luận án tiến sỹ của 570 trường đại học tại 29 nước ở Châu Âu.
 DART được xây dựng với mục đích tạo ra một cơ sở dữ liệu điện tử nhằm giúp bạn đọc có thể tiếp cận các tài liệu nghiên cứu (luận văn thạc sỹ hay luận án tiến sỹ) do các sinh viên/ học viên và nghiên cứu sinh đã từng học tập tại các trường đại học ở Châu Âu thực hiện. 
@@ -36,9 +41,6 @@ http://search.ndltd.org/
 Cơ sở dữ liệu nghiên cứu mở lớn nhất thế giới với 208,035,267 bài nghiên cứu miễn phí truy cập!
 https://core.ac.uk/
 
-𝐃𝐎𝐀𝐉 - 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐨𝐟 𝐎𝐩𝐞𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐚𝐥𝐬
-𝐃𝐎𝐀𝐉 cung cấp gần 6 triệu bài báo miễn phí truy cập từ 11,662 tạp chí của 125 quốc gia với 80 ngôn ngữ khác nhau trên toàn thế giới!
-https://doaj.org/
 
 𝐎𝐩𝐞𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐓𝐡𝐞𝐬𝐞𝐬 𝐚𝐧𝐝 𝐃𝐢𝐬𝐬𝐞𝐫𝐭𝐚𝐭𝐢𝐨𝐧𝐬 - 𝐎𝐀𝐓𝐃
 𝐎𝐀𝐓𝐃 là cơ sở dữ liệu về luận văn và luận án mở đến từ 1,100 cơ sở giáo dục và viện nghiên cứu trên toàn thế giới. 
