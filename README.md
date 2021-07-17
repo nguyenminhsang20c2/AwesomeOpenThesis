@@ -1,6 +1,11 @@
 # AwesomeOpenThesis
 
-[ 𝐃𝐎𝐀𝐉_𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐨𝐟 𝐎𝐩𝐞𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐚𝐥𝐬]
+[𝐓𝐡𝐞̀𝐬𝐞𝐬_𝐅𝐫𝐚𝐧𝐜𝐞]
+Hiện nay, 𝐓𝐡𝐞̀𝐬𝐞𝐬 cho phép bạn đọc truy cập tóm tắt hoặc toàn văn khoảng 493,988  luận án tiến sỹ của tất cả các cơ sở giáo dục tại Pháp.
+http://www.theses.fr/en/accueil.jsp
+
+
+[𝐃𝐎𝐀𝐉_𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐨𝐟 𝐎𝐩𝐞𝐧 𝐀𝐜𝐜𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐚𝐥𝐬]
 𝐃𝐎𝐀𝐉 là cơ sở dữ liệu bao gồm 16,575 Tạp chí khoa học và 6,299,057 bài báo khoa học mở - Miễn phí truy cập đến từ 126 quốc gia/ vùng lãnh thổ.
 https://www.doaj.org/
 
