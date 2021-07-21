@@ -1,5 +1,9 @@
 # AwesomeOpenThesis
 
+[𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐒𝐜𝐡𝐨𝐥𝐚𝐫]
+𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐒𝐜𝐡𝐨𝐥𝐚𝐫 hiện đang lưu trữ 25 triệu bài báo và ấn phẩm khoa học điện tử từ tất cả các nguồn trên internet.
+https://scholar.archive.org/
+
 [𝐓𝐡𝐞̀𝐬𝐞𝐬_𝐅𝐫𝐚𝐧𝐜𝐞]
 Hiện nay, 𝐓𝐡𝐞̀𝐬𝐞𝐬 cho phép bạn đọc truy cập tóm tắt hoặc toàn văn khoảng 493,988  luận án tiến sỹ của tất cả các cơ sở giáo dục tại Pháp.
 http://www.theses.fr/en/accueil.jsp
