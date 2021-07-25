@@ -1,5 +1,9 @@
 # AwesomeOpenThesis
 
+[𝐄𝐜𝐨𝐧𝐁𝐢𝐳_𝐆𝐞𝐫𝐦𝐚𝐧 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 𝐨𝐟 𝐄𝐜𝐨𝐧𝐨𝐦𝐢𝐜𝐬]
+𝐄𝐜𝐨𝐧𝐁𝐢𝐳 hiện cung cấp thông tin chi tiết của 11,271,164 ấn phẩm khoa học liên quan khối ngành Kinh tế!
+https://www.econbiz.de/
+
 [𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐒𝐜𝐡𝐨𝐥𝐚𝐫]
 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐀𝐫𝐜𝐡𝐢𝐯𝐞 𝐒𝐜𝐡𝐨𝐥𝐚𝐫 hiện đang lưu trữ 25 triệu bài báo và ấn phẩm khoa học điện tử từ tất cả các nguồn trên internet.
 https://scholar.archive.org/
