@@ -2,7 +2,7 @@
 
 
 [Digital Commons Network - Business Commons]
-Bộ sơ sở dữ liệu gồm 116,088 bài báo miễn phí truy cập đến từ 440 cơ sở nghiên cứu trên toàn thế giời thuộc lĩnh vực Kinh doanh- Kinh tế!
+Bộ sơ sở dữ liệu gồm 116,088 bài báo miễn phí truy cập đến từ 440 cơ sở nghiên cứu trên toàn thế giới thuộc lĩnh vực Kinh doanh- Kinh tế!
 http://network.bepress.com/business/
 
 [𝐄𝐜𝐨𝐧𝐁𝐢𝐳_𝐆𝐞𝐫𝐦𝐚𝐧 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 𝐨𝐟 𝐄𝐜𝐨𝐧𝐨𝐦𝐢𝐜𝐬]
