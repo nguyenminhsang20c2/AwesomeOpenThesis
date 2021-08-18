@@ -1,5 +1,11 @@
 # AwesomeOpenThesis
 
+[University of Oxford] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử đến từ University of Oxford. 
+https://ora.ox.ac.uk/
+
+[University of Glasgow] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử miễn phí truy cập đến từ University of Glasgow. 
+Luận án đầu tiên được lưu trữ trong cơ sở dữ liệu này từ năm 1838!
+http://theses.gla.ac.uk/view/year/
 
 [Digital Commons Network - Business Commons]
 Bộ sơ sở dữ liệu gồm 116,088 bài báo miễn phí truy cập đến từ 440 cơ sở nghiên cứu trên toàn thế giới thuộc lĩnh vực Kinh doanh- Kinh tế!
