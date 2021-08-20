@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Loughborough's Research Repository] Bộ sơ sở dữ liệu điện tử mở thuộc lĩnh vực Kinh doanh- Kinh tế đến từ Loughborough University!
+https://repository.lboro.ac.uk/Business_and_Economics
+
 [University of Oxford] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử đến từ University of Oxford. 
 https://ora.ox.ac.uk/
 
