@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Bournemouth University Research Online] - Xin gửi Quý Anh/ Chị cơ sở dữ liệu  điện tử mở đến từ Bournemouth University!
+http://eprints.bournemouth.ac.uk/
+
 [Loughborough's Research Repository] Bộ sơ sở dữ liệu điện tử mở thuộc lĩnh vực Kinh doanh- Kinh tế đến từ Loughborough University!
 https://repository.lboro.ac.uk/Business_and_Economics
 
