@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Cardiff Metropolitan Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử mở đến từ Cardiff Metropolitan University!
+https://repository.cardiffmet.ac.uk/
+
 [Bournemouth University Research Online] - Xin gửi Quý Anh/ Chị cơ sở dữ liệu  điện tử mở đến từ Bournemouth University!
 http://eprints.bournemouth.ac.uk/
 
