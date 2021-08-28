@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Open Access at Essex] Xin gửi Quý Anh/Chị cơ sở dữ liệu điện tử mở đến từ University of Essex!
+http://repository.essex.ac.uk/
+
 [Cardiff Metropolitan Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử mở đến từ Cardiff Metropolitan University!
 https://repository.cardiffmet.ac.uk/
 
