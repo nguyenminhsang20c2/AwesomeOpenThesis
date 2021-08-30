@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[University of Leicester] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Leicester!
+https://leicester.figshare.com/search
+
 [Open Access at Essex] Xin gửi Quý Anh/Chị cơ sở dữ liệu điện tử mở đến từ University of Essex!
 http://repository.essex.ac.uk/
 
