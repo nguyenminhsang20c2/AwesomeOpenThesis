@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[QUEEN MARY RESEARCH ONLINE] XIN GỬI QUÝ ANH/ CHỊ CƠ SỞ DỮ LIỆU ĐIỆN TỬ MỞ ĐẾN TỪ QUEEN MARY UNIVERSITY OF LONDON!
+https://qmro.qmul.ac.uk/xmlui
+
 [University of Leicester] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Leicester!
 https://leicester.figshare.com/search
 
