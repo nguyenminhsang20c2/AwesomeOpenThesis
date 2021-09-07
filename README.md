@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Nottingham eTheses]Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Nottingham
+http://eprints.nottingham.ac.uk/etheses/
+
 [University of Hertfordshire Research Archive] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Hertfordshire!
 https://uhra.herts.ac.uk/handle/2299/6050
 
