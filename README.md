@@ -1,12 +1,12 @@
 # AwesomeOpenThesis
 
-[White Rose eTheses Online]nXin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Southampton!
+[White Rose eTheses Online] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Southampton!
 https://etheses.whiterose.ac.uk/view/year/
 
 [St Andrews Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of St Andrews!
 https://research-repository.st-andrews.ac.uk/
 
-[Nottingham eTheses]Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Nottingham
+[Nottingham eTheses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Nottingham
 http://eprints.nottingham.ac.uk/etheses/
 
 [University of Hertfordshire Research Archive] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Hertfordshire!
@@ -24,7 +24,7 @@ http://repository.essex.ac.uk/
 [Cardiff Metropolitan Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu luận án điện tử mở đến từ Cardiff Metropolitan University!
 https://repository.cardiffmet.ac.uk/
 
-[Bournemouth University Research Online] - Xin gửi Quý Anh/ Chị cơ sở dữ liệu  điện tử mở đến từ Bournemouth University!
+[Bournemouth University Research Online]   Xin gửi Quý Anh/ Chị cơ sở dữ liệu  điện tử mở đến từ Bournemouth University!
 http://eprints.bournemouth.ac.uk/
 
 [Loughborough's Research Repository] Bộ sơ sở dữ liệu điện tử mở thuộc lĩnh vực Kinh doanh- Kinh tế đến từ Loughborough University!
