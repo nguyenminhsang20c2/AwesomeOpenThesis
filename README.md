@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[White Rose eTheses Online]nXin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Southampton!
+https://etheses.whiterose.ac.uk/view/year/
+
 [St Andrews Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of St Andrews!
 https://research-repository.st-andrews.ac.uk/
 
