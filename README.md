@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Staffordshire Online Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ Staffordshire University!
+https://eprints.staffs.ac.uk/
+
 [White Rose eTheses Online] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Southampton!
 https://etheses.whiterose.ac.uk/view/year/
 
