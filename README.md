@@ -1,5 +1,9 @@
 # AwesomeOpenThesis
 
+[Cardiff Uni Open Research] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ Cardiff University!
+https://orca.cardiff.ac.uk/
+
+
 [Staffordshire Online Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ Staffordshire University!
 https://eprints.staffs.ac.uk/
 
