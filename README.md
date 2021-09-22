@@ -1,5 +1,8 @@
 # AwesomeOpenThesis
 
+[Durham e-Theses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ Durham University!
+http://etheses.dur.ac.uk/
+
 [City Research Online] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ City, University of London!
 https://openaccess.city.ac.uk/
 
