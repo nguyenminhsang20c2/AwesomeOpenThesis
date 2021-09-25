@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[Research Portal] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ Bangor University! https://research.bangor.ac.uk/portal/en/theses/search.html
+
 [Durham e-Theses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ Durham University!
 http://etheses.dur.ac.uk/
 
