@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[ChesterRep] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Chester! https://chesterrep.openrepository.com/
+
 [RADAR] Xin gửi Quý Anh/Chị cơ sở dữ liệu điện tử đến từ Oxford Brookes University! https://radar.brookes.ac.uk/radar/
 
 [Research Portal] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ Bangor University! https://research.bangor.ac.uk/portal/en/theses/search.html
