@@ -1,4 +1,5 @@
 # AwesomeOpenThesis
+[Open Research Exeter] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Exeter!https://ore.exeter.ac.uk/repository/
 
 [ChesterRep] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Chester! https://chesterrep.openrepository.com/
 
