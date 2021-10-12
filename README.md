@@ -1,4 +1,6 @@
 # AwesomeOpenThesis
+[LSBU Open Research] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ  London South Bank University! https://openresearch.lsbu.ac.uk/departments
+
 [ResearchDirectory] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ Lancaster University! https://www.research.lancs.ac.uk/portal/en/publications/search.html
 
 [Research Explorer] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ  University of South Wales! https://pure.southwales.ac.uk/en/
