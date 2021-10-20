@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[CentAUR] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Reading! http://centaur.reading.ac.uk/
+
 [Research portal] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Portsmouth! https://researchportal.port.ac.uk/en/studentTheses/
 
 [UCL Discovery] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ  University College London! https://discovery.ucl.ac.uk/
