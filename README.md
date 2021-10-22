@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[WRAP] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Warwick! http://wrap.warwick.ac.uk/index.html
+
 [CentAUR] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Reading! http://centaur.reading.ac.uk/
 
 [Research portal] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử đến từ University of Portsmouth! https://researchportal.port.ac.uk/en/studentTheses/
