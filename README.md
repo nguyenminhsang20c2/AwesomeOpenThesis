@@ -1,4 +1,6 @@
 # AwesomeOpenThesis
+[White Rose eTheses Online] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Leeds! https://etheses.whiterose.ac.uk/
+
 [Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  University Of Wales Trinity Saint David! https://repository.uwtsd.ac.uk/
 
 [WRAP] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Warwick! http://wrap.warwick.ac.uk/index.html
