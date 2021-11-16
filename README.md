@@ -1,4 +1,6 @@
 # AwesomeOpenThesis
+[Coventry University Theses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  Coventry University! https://pureportal.coventry.ac.uk/en/publications/
+
 [Abertay University Theses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  Abertay University! https://rke.abertay.ac.uk/en/studentTheses/
 
 [White Rose eTheses Online] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Leeds! https://etheses.whiterose.ac.uk/
