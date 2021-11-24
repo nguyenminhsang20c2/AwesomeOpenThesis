@@ -1,4 +1,7 @@
 # AwesomeOpenThesis
+
+[ERA] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  University of Edinburgh! https://era.ed.ac.uk/
+
 [UEL Research Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of East London! https://repository.uel.ac.uk/
 
 [Coventry University Theses] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  Coventry University! https://pureportal.coventry.ac.uk/en/publications/
