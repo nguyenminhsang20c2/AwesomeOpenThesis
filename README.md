@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[Kent Academic Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Kent! https://kar.kent.ac.uk/
+
 [NASATI] Cơ sở dữ liệu Công bố Khoa học và Công nghệ của Việt Nam! https://sti.vista.gov.vn/Pages/Trang-chu.aspx
 
 [ERA] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ  University of Edinburgh! https://era.ed.ac.uk/
