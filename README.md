@@ -1,5 +1,7 @@
 # AwesomeOpenThesis
 
+[SHURA] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ Sheffield Hallam University! http://shura.shu.ac.uk/
+
 [PEARL] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Plymouth! https://pearl.plymouth.ac.uk/
 
 [Kent Academic Repository] Xin gửi Quý Anh/ Chị cơ sở dữ liệu điện tử mở đến từ University of Kent! https://kar.kent.ac.uk/
