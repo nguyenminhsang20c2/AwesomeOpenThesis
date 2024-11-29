@@ -161,7 +161,7 @@ https://ethos.bl.uk/Home.do
 
 𝐓𝐡𝐞𝐬𝐞𝐬 𝐚𝐧𝐝 𝐝𝐢𝐬𝐬𝐞𝐫𝐭𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐂𝐚𝐧𝐚𝐝𝐚
 Kính gửi Quý Anh/ Chị cổng thông tin luận án tiến sỹ/ luận văn thạc sỹ miễn phí truy cập của các cơ sở nghiên cứu tại 𝐂𝐚𝐧𝐚𝐝𝐚!
-https://www.bac-lac.gc.ca/eng/services/theses/Pages/search.aspx?fbclid=IwAR2CjmtqS5EC9SSdxIAYunefX9IKcZwuyDxuMh29MTydqT02LKB5aY3iObg
+https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/theses-canada.aspx
 
 𝐎𝐩𝐞𝐧 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐓𝐡𝐞𝐬𝐞𝐮𝐬_𝐅𝐢𝐧𝐥𝐚𝐧𝐝
 𝐓𝐡𝐞𝐬𝐞𝐮𝐬 cung cấp hơn 200,000 luận văn/ luận án miễn phí truy cập của Hiệp hội gồm 28 trường Đại học Khoa học Ứng dụng tại Phần Lan.
